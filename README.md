@@ -7,7 +7,7 @@ Metasploitable is an intentionally vulnerable Linux virtual machine that can be 
 ## ⚙️ Prepare our pen-lab.
 
 We will need : 
-- VMware , VitrualBox or any other visualization product.
+- [VMware](https://www.vmware.com/) , [VitrualBox](https://www.virtualbox.org/) or any other visualization product.
 - installed a Linux Machine ( ideally [Kali Linux](https://www.kali.org/) or [Parrot Os](https://www.parrotsec.org/) )
 - Installed [Metasploitable Machine](https://sourceforge.net/projects/metasploitable/)
 
