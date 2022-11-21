@@ -16,12 +16,13 @@ We will need :
 
 
 
-## ⚈ FTP ( port : 21 ) Exploit
+## ⚈ FTP Service Exploit ( port : 21 )
 
 In our scan result we can see : <br/>
 > 21/tcp   open  ftp         vsftpd 2.3.4<br/>
 > ftp-anon: Anonymous FTP login allowed (FTP code 230)
 
+Keywords : vsftpd 2.3.4 , Anonymous FTP login allowed
 
 **FTP Service (port:21) Exploit :**
 
