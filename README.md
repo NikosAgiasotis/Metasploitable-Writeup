@@ -27,6 +27,7 @@ In our scan result we can see : <br/>
 **FTP Service Exploit steps:**
 
 - We will use the exploit [VSFTPD v2.3.4 Backdoor Command Execution](https://www.rapid7.com/db/modules/exploit/unix/ftp/vsftpd_234_backdoor/).
+- type msfconsole in command line
 
 1. use exploit/unix/ftp/vsftpd_234_backdoor
 2. show options
