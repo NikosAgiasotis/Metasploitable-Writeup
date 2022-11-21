@@ -13,6 +13,8 @@ We will need :
 
 P.s. The Linux and Metasploitable machines should be in the same network group
 
+###################################################################################
+
 ## ⚈ FTP ( port : 21 ) Exploit
 
 In our scan result we can see : 
