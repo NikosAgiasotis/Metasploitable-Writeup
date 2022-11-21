@@ -13,7 +13,7 @@ We will need :
 
 > P.s. The Linux and Metasploitable machines should be in the same network group
 
-
+<br/>
 
 
 ## ⚈ FTP Service Exploit ( port : 21 )
@@ -22,9 +22,9 @@ In our scan result we can see : <br/>
 > 21/tcp   open  ftp         vsftpd 2.3.4<br/>
 > ftp-anon: Anonymous FTP login allowed (FTP code 230)
 
-<sub>Keywords : vsftpd 2.3.4 , Anonymous FTP login allowed</sub>
-
-**FTP Service (port:21) Exploit :**
+<sub>Keywords : vsftpd 2.3.4 , Anonymous FTP login allowed</sub><br/>
+<br/>
+**FTP Service Exploit steps:**
 
 - We will use the exploit [VSFTPD v2.3.4 Backdoor Command Execution](https://www.rapid7.com/db/modules/exploit/unix/ftp/vsftpd_234_backdoor/).
 
