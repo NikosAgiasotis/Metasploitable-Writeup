@@ -11,13 +11,17 @@ We will need :
 - installed a Linux Machine ( ideally [Kali Linux](https://www.kali.org/) or [Parrot Os](https://www.parrotsec.org/) )
 - Installed [Metasploitable Machine](https://sourceforge.net/projects/metasploitable/)
 
-P.s. The Linux and Metasploitable machines should be in the same network group
+> P.s. The Linux and Metasploitable machines should be in the same network group
 
-###################################################################################
+
+
 
 ## ⚈ FTP ( port : 21 ) Exploit
 
-In our scan result we can see : 
+In our scan result we can see : <br/>
+> 21/tcp   open  ftp         vsftpd 2.3.4<br/>
+> ftp-anon: Anonymous FTP login allowed (FTP code 230)
+
 
 **FTP Service (port:21) Exploit :**
 
