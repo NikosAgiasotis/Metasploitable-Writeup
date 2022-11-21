@@ -8,12 +8,10 @@ Metasploitable is an intentionally vulnerable Linux virtual machine that can be 
 
 We will need : 
 - VMware , VitrualBox or any other visualization product.
-- installed a Linux Machine ( ideally [Kali Linux]() or [Parrot Os]() )
+- installed a Linux Machine ( ideally [Kali Linux](https://www.kali.org/) or [Parrot Os](https://www.parrotsec.org/) )
 - Installed [Metasploitable Machine](https://sourceforge.net/projects/metasploitable/)
 
 P.s. The Linux and Metasploitable machines should be in the same network group
-
-
 
 ## FTP ( port : 21 ) Exploit
 
