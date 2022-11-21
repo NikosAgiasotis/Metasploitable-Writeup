@@ -22,7 +22,7 @@ In our scan result we can see : <br/>
 > 21/tcp   open  ftp         vsftpd 2.3.4<br/>
 > ftp-anon: Anonymous FTP login allowed (FTP code 230)
 
-Keywords : vsftpd 2.3.4 , Anonymous FTP login allowed
+	<sub> Keywords : vsftpd 2.3.4 , Anonymous FTP login allowed 	</sub>
 
 **FTP Service (port:21) Exploit :**
 
