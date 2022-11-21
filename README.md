@@ -17,7 +17,7 @@ P.s. The Linux and Metasploitable machines should be in the same network group
 
 In our scan result we can see : 
 
-**Exploit ftp**
+**FTP Service (port:21) Exploit**
 
 - We will use the exploit [VSFTPD v2.3.4 Backdoor Command Execution](https://www.rapid7.com/db/modules/exploit/unix/ftp/vsftpd_234_backdoor/).
 
