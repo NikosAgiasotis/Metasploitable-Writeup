@@ -33,4 +33,5 @@ In our scan result we can see : <br/>
 4. exploit
 
 As you can see we executed some command to see if our exploit work.
+
 ![Sample](https://i.imgur.com/jHsmu7E.png)
